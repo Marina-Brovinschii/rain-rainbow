@@ -31,9 +31,9 @@ body {
     border-radius: 100%;
 }
 .wet {
-    background-image: linear-gradient(rgba(0, 0, 255, 0.453) 50%, transparent 50%);
+    background-image: linear-gradient(rgba(0, 0, 255, 0.453) 47%, transparent 50%);
     width: 405px;
-    height: 510px;
+    height: 520px;
     position: absolute;
     z-index: 1;
     top: 120px;
